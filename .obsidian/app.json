@@ -1,0 +1,32 @@
+{
+  "newFileLocation": "current",
+  "newFileFolderPath": "00-Inbox",
+  "attachmentFolderPath": "70-Resources/Attachments",
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "spellcheckLanguages": ["en-US"],
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "legacyEditor": false,
+  "mobilePullAction": "command-palette",
+  "mobileToolbarCommands": [
+    "editor:bold",
+    "editor:italic",
+    "editor:link",
+    "editor:tag",
+    "editor:attach"
+  ],
+  "vimMode": false
+}

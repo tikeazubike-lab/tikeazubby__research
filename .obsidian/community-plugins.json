@@ -1,0 +1,16 @@
+{
+  "templateFolders": [
+    "70-Resources/Templates"
+  ],
+  "templates": {
+    "70-Resources/Templates/TEMPLATE-Fleeting-Note.md": "00-Inbox",
+    "70-Resources/Templates/TEMPLATE-Atomic-Note.md": "10-Atomic-Notes",
+    "70-Resources/Templates/TEMPLATE-Literature-Note.md": "20-Literature",
+    "70-Resources/Templates/TEMPLATE-Trading-Journal.md": "50-Journal/Trade-Reviews",
+    "70-Resources/Templates/TEMPLATE-Strategy-Note.md": "30-MOCs",
+    "70-Resources/Templates/TEMPLATE-MOC.md": "30-MOCs",
+    "70-Resources/Templates/TEMPLATE-Project.md": "40-Projects",
+    "70-Resources/Templates/TEMPLATE-Journal.md": "50-Journal/Daily",
+    "70-Resources/Templates/TEMPLATE-AI-Note.md": "60-AI/Synthesis"
+  }
+}
