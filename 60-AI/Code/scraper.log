@@ -1,0 +1,34 @@
+[2026-07-04 13:13:14] ============================================================
+[2026-07-04 13:13:14] SEC Non-Mandated Scraper starting (nodriver)
+[2026-07-04 13:13:14] ============================================================
+[2026-07-04 13:13:14] Using chromium: /home/zubbyik/.cache/ms-playwright/chromium-1228/chrome-linux64/chrome
+[2026-07-04 13:13:14] Launching browser...
+[2026-07-04 13:13:23] Page loaded.
+[2026-07-04 13:13:23] 
+--- Search 1: "Egbuna Abiodun" ---
+[2026-07-04 13:13:24]   Typing query (attempt 1)...
+[2026-07-04 13:13:25]   Waiting for Turnstile + results...
+[2026-07-04 13:13:28]   ✅ Results after 3s
+[2026-07-04 13:13:28]   Page 1: 10 results
+[2026-07-04 13:13:28]   ✅ Added 10 results
+[2026-07-04 13:13:31] 
+--- Search 2: "Abiodun" ---
+[2026-07-04 13:13:31]   Typing query (attempt 1)...
+[2026-07-04 13:13:32]   Waiting for Turnstile + results...
+[2026-07-04 13:13:34]   ✅ Results after 2s
+[2026-07-04 13:13:34]   Page 1: 10 results
+[2026-07-04 13:13:34]   Regex filter: 10 -> 10
+[2026-07-04 13:13:34]   ✅ Added 10 results
+[2026-07-04 13:13:37] 
+--- Search 3: "Egbuna" ---
+[2026-07-04 13:13:38]   Typing query (attempt 1)...
+[2026-07-04 13:13:38]   Waiting for Turnstile + results...
+[2026-07-04 13:13:41]   ✅ Results after 3s
+[2026-07-04 13:13:41]   Page 1: 10 results
+[2026-07-04 13:13:41]   Regex filter: 10 -> 0
+[2026-07-04 13:13:41]   ✅ Added 0 results
+[2026-07-04 13:13:44] Written 20 records to /home/zubbyik/obsidan_zettlekasten/70-Resources/References/sec-egbuna-non-mandated-results.md
+[2026-07-04 13:13:44] ============================================================
+[2026-07-04 13:13:44] Done. 20 unique results.
+[2026-07-04 13:13:44] Output: /home/zubbyik/obsidan_zettlekasten/70-Resources/References/sec-egbuna-non-mandated-results.md
+[2026-07-04 13:13:44] ============================================================
