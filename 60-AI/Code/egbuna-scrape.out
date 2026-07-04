@@ -1,0 +1,17 @@
+[14:58:30] =======================================================
+[14:58:30] SEC Egbuna Full Scraper (token + API)
+[14:58:30] Search: 'Egbuna'  →  /home/zubbyik/obsidan_zettlekasten/70-Resources/References/sec-egbuna-full.csv
+[14:58:30] =======================================================
+[14:58:30] Acquiring Turnstile token...
+[14:58:43]   Token: 752 chars
+[14:58:43] Resuming from page 57 (560 rows in CSV)
+[14:58:49] Page    57  +10  total=570
+[14:58:55] Page    58  +10  total=580
+[14:59:02] Page    59  +10  total=590
+[14:59:08] Page    60  +10  total=600
+[14:59:08]   Breather 45.0s...
+[14:59:59] Page    61  +10  total=610
+[15:00:06] Page    62  +10  total=620
+[15:00:12] Page    63  +10  total=630
+[15:00:19] Page    64  +10  total=640
+[15:00:25] Page    65  +10  total=650

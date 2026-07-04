@@ -1,0 +1,9 @@
+[15:07:54] Token: 752 chars
+[15:07:54] Existing rows: 800
+[15:07:54] Starting from page 81
+[15:08:51] Page    90  +10  total=900
+[15:09:53] Page   100  +10  total=1000
+[15:09:59] Page 101: empty — has_more=False
+[15:09:59] No more pages. Done!
+[15:09:59] 
+Done. 1000 total rows → /home/zubbyik/obsidan_zettlekasten/70-Resources/References/sec-egbuna-full.csv
