@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+
+# Research cache
+.research_cache/
+
+# OS
+.DS_Store
+Thumbs.db

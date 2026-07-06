@@ -60,6 +60,7 @@ tags: [moc, freelance, business]
 
 ## Key Notes
 
+- [[Upwork-Freelance-Market-Sentiment-Study]] — Reddit sentiment analysis (296 docs, Jul 2026)
 - _Link your service package notes here_
 - _Link your client project notes here_
 - _Link your pricing research here_
